@@ -19,7 +19,7 @@
     "@angular/forms": "^14.0.0",
     "@angular/platform-browser": "^14.0.0",
     "@angular/platform-browser-dynamic": "^14.0.0",
-    "@angular/pwa": "^0.5.3",
+    "@angular/pwa": "^16.2.0",
     "@angular/router": "^14.0.0",
     "@awesome-cordova-plugins/admob": "^6.4.0",
     "@awesome-cordova-plugins/android-permissions": "^6.4.0",
